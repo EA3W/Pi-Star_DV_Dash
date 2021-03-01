@@ -17,7 +17,7 @@ $lang = array (
   "update"                      =>  "Actualitzar",
   "backup_restore"              =>  "Fer/Restaurar còpia seguretat",
   "factory_reset"               =>  "Restaurar estat de fàbrica",
-  "live_logs"                   =>  "Informes-Logs",
+  "live_logs"                   =>  "Informes/Logs",
   // Config page section headdings
   "hardware_info"               =>  "Informació del maquinari",
   "control_software"            =>  "Control de programari",
@@ -29,10 +29,10 @@ $lang = array (
   "p25_config"                  =>  "Configuració de P25",
   "nxdn_config"                 =>  "Configuració de NXDN",
   "pocsag_config"               =>  "Configuració de POCSAG",
-  "mobilegps_config"            =>  "Configuració GPS mòbil",
+  "mobilegps_config"            =>  "Configuració del GPS mòbil",
   "wifi_config"                 =>  "Configuració WIFI",
   "fw_config"                   =>  "Configuració del Tallafocs",
-  "remote_access_pw"            =>  "Mot clau per acccés remot",
+  "remote_access_pw"            =>  "Contrasenya per acccés remot",
   // Config Page - Section General
   "setting"                     =>  "Configuració",
   "value"                       =>  "Valor",
@@ -44,8 +44,8 @@ $lang = array (
   "cpu_load"                    =>  "Càrrega CPU",
   "cpu_temp"                    =>  "Temperatura CPU",
   // Config Page - Control Software
-  "controller_software"         =>  "Controlador programari",
-  "controller_mode"             =>  "Controlador de Mode",
+  "controller_software"         =>  "Controlador de programari",
+  "controller_mode"             =>  "Controlador de mode",
   // Config Page - MMDVMHost Configuration
   "dmr_mode"                    =>  "Mode DMR",
   "d-star_mode"                 =>  "Mode D-Star",
@@ -76,16 +76,16 @@ $lang = array (
   "xlx_master"                  =>  "Màster XLX",
   "xlx_enable"                  =>  "Habilitar màster XLX",
   "dmr_cc"                      =>  "Codi de color DMR",
-  "dmr_embeddedlconly"          =>  "DMR EmbeddedLCOnly",
-  "dmr_dumptadata"              =>  "DMR DumpTAData",
+  "dmr_embeddedlconly"          =>  "Missatges ampliats DMR",
+  "dmr_dumptadata"              =>  "bolcar dades DMR",
   // Config Page - D-Star Configuration
   "dstar_rpt1"                  =>  "RPT1 indicatiu de crida",
   "dstar_rpt2"                  =>  "RPT2 indicatiu de crida",
-  "dstar_irc_password"          =>  "mot clau d'ircDDBGateway",
+  "dstar_irc_password"          =>  "Contrasenya d'ircDDBGateway",
   "dstar_default_ref"           =>  "Reflector predeterminat",
   "aprs_host"                   =>  "Servidor d'APRS",
   "dstar_irc_lang"              =>  "Idioma d'ircDDBGateway",
-  "dstar_irc_time"              =>  "Interval de Balissa",
+  "dstar_irc_time"              =>  "Interval de la Balissa",
   // Config Page - YSF Configuration
   "ysf_startup_host"            =>  "YSF Arrencant Host",
   // Config Page - P25 Configuration
@@ -116,7 +116,7 @@ $lang = array (
   "dmr_repeater"                =>  "Repetidor DMR",
   "dmr_master"                  =>  "Màster DMR",
   "ysf_net"                     =>  "Xarxa YSF",
-  "p25_radio"                   =>  "Radio P25",
+  "p25_radio"                   =>  "Ràdio P25",
   "p25_net"                     =>  "Xarxa P25",
   "nxdn_radio"                  =>  "Ràdio NXDN",
   "nxdn_net"                    =>  "Xarxa NXDN",
@@ -126,7 +126,7 @@ $lang = array (
   "callsign"                    =>  "Indicatiu",
   "target"                      =>  "Destí",
   "src"                         =>  "SRC",  
-  "dur"                         =>  "DUR",  
+  "dur"                         =>  "Duració",  
   "loss"                        =>  "Pèrdua",
   "ber"                         =>  "BER",
   // POCSAG Specific
